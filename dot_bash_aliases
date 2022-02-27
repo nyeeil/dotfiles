@@ -1,0 +1,12 @@
+alias ll='ls -l'
+alias la='ls -a'
+alias l='ls -al'
+
+alias cx='cd ..'
+alias cxx='cd ../..'
+alias cxxx='cd ../../..'
+alias cxxxx='cd ../../../..'
+alias cxxxxx='cd ../../../../..'
+alias cxxxxxx='cd ../../../../../..'
+alias cxxxxxxx='cd ../../../../../../..'
+alias cxxxxxxxx='cd ../../../../../../../..'

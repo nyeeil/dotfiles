@@ -1,0 +1,8 @@
+"\C-j": backward-word
+"\C-t": forward-word
+"\C-o": kill-word
+set show-all-if-ambiguous on
+set bell-style visible
+set editing-mode emacs
+set keymap emacs
+
